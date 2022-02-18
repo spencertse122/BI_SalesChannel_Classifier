@@ -1,5 +1,5 @@
 # BI Sales CaseStudy
----
+
 ## Background:
 Firm “X” is an asset manager whose primary business is providing asset management capabilities, chiefly
 through its mutual fund products. Firm X’s sales force periodically meets with Financial Advisors at
