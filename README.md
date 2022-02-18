@@ -1,5 +1,7 @@
 # BI Sales Case Study
 
+![alt text](https://www.incimages.com/uploaded_files/image/1920x1080/getty_539953664_213316.jpg)
+
 ## Background:
 Firm “X” is an asset manager whose primary business is providing asset management capabilities, chiefly
 through its mutual fund products. Firm X’s sales force periodically meets with Financial Advisors at
