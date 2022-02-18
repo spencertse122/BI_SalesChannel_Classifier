@@ -1,4 +1,4 @@
-# BI Sales CaseStudy
+# BI Sales Case Study
 
 ## Background:
 Firm “X” is an asset manager whose primary business is providing asset management capabilities, chiefly
