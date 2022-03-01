@@ -30,3 +30,6 @@ Your goal is broad: examine the mutual fund flows across brokerages, geographies
 territories to provide actionable insights that will help Firm X increase its flows and elevate firm X’s
 market share. You are expected to produce a 30-45 minute presentation and walk the audience through
 your thought process. Following your presentation please be prepared to answer questions from the team. 
+
+## Dashboard:
+![alt text](Dashboard.png)
